@@ -19,7 +19,7 @@ A cybersecurity Analyst
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="[https://www.python.org/]" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/></a>        
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/></a>        
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
           
           
