@@ -50,9 +50,3 @@ A Cybersecurity Analyst
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Udohekere&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
  
-
-
-
-
-
-
