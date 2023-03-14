@@ -1,6 +1,6 @@
 ### Hi there 👋 i'm Udohekere
 
-<!--
+
 A cybersecurity Analyst
 
 - 🔭 I’m currently working on an anomally based intrusion detection system
@@ -10,7 +10,7 @@ A cybersecurity Analyst
 - 💬 Ask me about HTML, CSS, PHP
 - 📫 How to reach me: Udohekerenkene@gmail.com
 - ⚡ Fun fact: I love Music, Movies, Research and anything cybersecurity
--->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
