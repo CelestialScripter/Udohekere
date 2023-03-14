@@ -41,17 +41,4 @@ A Cybersecurity Analyst
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
 <a href="https://www.ssh.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" width="40" height="40" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> </a>
-          <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F2b%2FKali-dragon-icon.svg%2F2048px-Kali-dragon-icon.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AKali-dragon-icon.svg&tbnid=-9yqo1SHu7S_TM&vet=12ahUKEwjV9umvtdr9AhX2sicCHcvCDc4QMygtegUIARDFAg..i&docid=_-Jp1N_5cNY4GM&w=2048&h=2048&q=kali%20linux%20official%20logo&hl=en&ved=2ahUKEwjV9umvtdr9AhX2sicCHcvCDc4QMygtegUIARDFAg" width="40" height="40"/>
-          
-
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
  </p>
