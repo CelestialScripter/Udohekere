@@ -3,7 +3,7 @@
 
 A cybersecurity Analyst
 
-- 🔭 I’m currently working on an anomally based intrusion detection system
+- 🔭 I’m currently working on an Anomally based intrusion detection system
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Cybersecurity tools using Machine Learning
 - 🤔 I’m looking for help with Python
@@ -18,4 +18,5 @@ A cybersecurity Analyst
 <a href="inkedin.com/in/udohekere-nkene/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashley olika" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> /a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+<p align="left"> /a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> </a>
+ </p>
