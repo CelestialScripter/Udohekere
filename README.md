@@ -44,9 +44,3 @@ A Cybersecurity Analyst
  </p>
  
  ---
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Udohekere&theme=transparent)](https://git.io/streak-stats)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Udohekere&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
- 
